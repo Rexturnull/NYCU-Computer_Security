@@ -20,3 +20,9 @@ This is my graduate course notes when I was studying at NYCU.
    - Fundamental Security Design Principles
    - Attack Surfaces and Attack Trees
    - Computer Security Strategy
+2. [Cryptographic Tools](./Chapter/Cryptographic%20Tools.md)
+   - Confidentiality with Symmetric Encryption
+   - Message Authentication and Hash Function
+   - Public-Key Encryption
+   - Digital Signatures and Key Management
+   - Random and Pseudorandom Numbers
